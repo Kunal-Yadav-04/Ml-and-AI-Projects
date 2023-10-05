@@ -1,0 +1,7 @@
+tensorflow   #for model training 
+keras        #deep learning APO developed by google for impplemmenting neural network
+pandas       #for dataset
+numpy        #to perform a wide variety of mathematical operations on arrays
+notebook     #for model training
+tqdm         # helps us in visualizing the completion of the loop.
+opencv-contrib-python
